@@ -1,6 +1,8 @@
 # Todoapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.6.
+ To run the project use two different terminal tabs with ng serve -o and json-server --watch db.json
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.6 and node v18.13.0.
 
 ## Development server
 
