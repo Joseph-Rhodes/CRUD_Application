@@ -1,14 +1,14 @@
 {
   "posts": [
     {
-      "id": 1,
+      "id": "1",
       "title": "json-server",
       "author": "typicode"
     }
   ],
   "comments": [
     {
-      "id": 1,
+      "id": "1",
       "body": "some comment",
       "postId": 1
     }
@@ -22,21 +22,14 @@
       "description": "description 2",
       "deadline": "2023-12-08T05:00:00.000Z",
       "priority": "high",
-      "id": 1
+      "id": "1"
     },
     {
-      "title": "Title 2",
-      "description": "decription 2",
+      "title": "Title 3",
+      "description": "decription 3",
       "deadline": "2023-12-09T05:00:00.000Z",
       "priority": "med",
-      "id": 2
-    },
-    {
-      "title": "Title 3 ",
-      "description": "description 3",
-      "deadline": "2023-12-09T05:00:00.000Z",
-      "priority": "med",
-      "id": 3
+      "id": "2"
     }
   ]
 }
